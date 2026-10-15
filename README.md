@@ -1,5 +1,8 @@
 # Cortex Cruiser – A Self-Driving Prototype in Action
 
+> **Team project** · DIT639 Cyber-Physical Systems, University of Gothenburg (spring 2025)  
+> **Team:** Martin Lidgren, Edvin Sanfridsson, Love Carlander Strandäng, Erik Nisbet
+
 <img src="images/cortex-cruiser-image.png" alt="App Screenshot" width="400"/>
 
 
